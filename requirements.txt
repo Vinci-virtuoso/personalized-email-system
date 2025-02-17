@@ -1,0 +1,11 @@
+os
+typing
+request
+firecrawl = "^1.11.1"
+firecrawl-py = "^1.11.1"
+tavily-python = "^0.5.1"
+langchain = "^0.3.7"
+langgraph = "^0.2.48"
+langchain-openai = "^0.2.8"
+langchain-community = "^0.3.7"
+python-dotenv = "^1.0.1"
